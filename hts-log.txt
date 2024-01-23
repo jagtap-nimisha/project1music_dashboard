@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Jan 2024 11:15:22 at https://demo.dashboardpack.com/cryptocurrency-html/Refound.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.dashboardpack.com/cryptocurrency-html/Refound.html -O1 "C:\My Web Sites\projrct1music" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/owl_carousel/css/owl.video.play.png (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/owl_carousel/css/owl.carousel.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/font_awesome/webfonts/fa-brands-400.svg (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/font_awesome/css/all.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/font_awesome/webfonts/fa-regular-400.svg (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/font_awesome/css/all.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/font_awesome/webfonts/fa-solid-900.svg (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/font_awesome/css/all.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/images/sort_both.png (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/css/jquery.dataTables.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/images/sort_asc.png (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/css/jquery.dataTables.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/images/sort_desc.png (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/css/jquery.dataTables.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/images/sort_asc_disabled.png (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/css/jquery.dataTables.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/images/sort_desc_disabled.png (from https://demo.dashboardpack.com/cryptocurrency-html/vendors/datatable/css/jquery.dataTables.min.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/img/progress/progress-bg.png (from https://demo.dashboardpack.com/cryptocurrency-html/css/style1.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/img/progress/design-progress-yellow.png (from https://demo.dashboardpack.com/cryptocurrency-html/css/style1.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/img/progress/design-progress-red.png (from https://demo.dashboardpack.com/cryptocurrency-html/css/style1.css)
+11:16:55	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/css/preloader.gif (from https://demo.dashboardpack.com/cryptocurrency-html/css/style1.css)
+11:16:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/swiper_slider/css/swiper.min.css (from https://demo.dashboardpack.com/cryptocurrency-html/error_400.html)
+11:16:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/select2/css/select2.min.css (from https://demo.dashboardpack.com/cryptocurrency-html/error_400.html)
+11:16:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/img/bak_hovers/sad.png (from https://demo.dashboardpack.com/cryptocurrency-html/error_400.html)
+11:16:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/cryptocurrency-html/vendors/apex_chart/bar_active_1.js (from https://demo.dashboardpack.com/cryptocurrency-html/tilt.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 35 seconds : 318 links scanned, 300 files written (47734382 bytes overall) [35428478 bytes received at 372931 bytes/sec], 26252885 bytes transferred using HTTP compression in 261 files, ratio 52%, 63.6 requests per connection
+(17 errors, 0 warnings, 0 messages)
